@@ -14,18 +14,17 @@ class Fibonacci():
         print('Out of constructor')
 
     def series(self):
-        while(True):
-            print('\n--',self.b,'\n')
+        while(True):            
             yield(self.b)
             self.a, self.b = self.b, self.a + self.b
-            print('\n@@@@',self.a," - ", self.b,'\n')
+            
 
 
 
 
 
 print('Before Constructor')
-f = Fibonacci(0,1)
+f = Fibonacci(0,101)
 print('After Constructor')
 
 for r in f.series():
