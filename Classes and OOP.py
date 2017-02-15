@@ -21,3 +21,6 @@ f = Fibonacci(0, 1)
 for r in f.series():
     if r > 100: break    
     print(r, end=' ')
+
+# displays the print message
+print('Here is your Fibonacci Table !')
