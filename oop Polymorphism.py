@@ -4,7 +4,7 @@ object of another class
 objects in the python, do not care what the name of the class is i.e
 objects is loosely typed (i.e. duck typed)
 '''
-
+# The below is code that defines the Duck class 
 class Duck:
     def quack(self):
         print('Quaaack!')
@@ -18,6 +18,7 @@ class Duck:
     def fur(self):
         print('The duck has fathers')
 
+# The below is code that deines the Dog class 
 class Dog:
     def bark(self):
         print('Woof!')
