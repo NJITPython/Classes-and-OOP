@@ -1,3 +1,6 @@
+#This is the poem, The Raven, by Edgar Allen Poe
+#He is well known in literature for his dismal and depressing literary works 
+
 Once upon a midnight dreary, while I pondered weak and weary,
 Over many a quaint and curious volume of forgotten lore,
 While I nodded, nearly napping, suddenly there came a tapping,
@@ -68,6 +71,7 @@ Till I scarcely more than muttered "Other friends have flown before -
 On the morrow he will leave me, as my hopes have flown before."
 Then the bird said, "Nevermore."
 
+# The next line starts line 75
 Startled at the stillness broken by reply so aptly spoken,
 "Doubtless," said I, "what it utters is its only stock and store,
 Caught from some unhappy master whom unmerciful disaster
@@ -117,6 +121,7 @@ Leave my loneliness unbroken! - quit the bust above my door!
 Take thy beak from out my heart, and take thy form from off my door!"
 Quoth the raven, "Nevermore."
 
+#This is verse 17
 And the raven, never flitting, still is sitting, still is sitting
 On the pallid bust of Pallas just above my chamber door;
 And his eyes have all the seeming of a demon's that is dreaming,
