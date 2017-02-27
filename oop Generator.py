@@ -13,6 +13,7 @@ when the object is used in content of iterable - for example in "for" loop, iter
 class inclusive_range:
     def __init__(self, * args):
         numargs = len(args)
+        # displays a message to the user if there is no argument
         if numargs < 1: raise TypeError('requires at least one argument')
         elif numargs == 1:
             self.stop = args[0]
